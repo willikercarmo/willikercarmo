@@ -3,7 +3,7 @@
 <div>
 <p>💬 My name is Williker Carmo, 30 years old, Brazilian living in Portugal since 2017 and I'm a Technical Specialist in Technologies and Information Systems Programming.</p>
 
-<p>🎓 I have started my journey as a developer in 2019 and since then I have found what motivates me the most: "think out of the box!"</p>
+<p>🎓 I have started my journey as a developer in 2019 and since then I have found out what motivates me the most: "think out of the box!"</p>
   
 <p>👨‍💻 Currently, I'm working at Noesis Portugal.</p>
 </div>
